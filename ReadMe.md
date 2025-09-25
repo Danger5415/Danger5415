@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Prakhar Gupta<br><br>🎓 B.Tech CSE student<br><br>🔐 Cybersecurity enthusiast exploring ethical hacking, network security & penetration testing<br><br>💻 Love building projects with Python, React Native, Supabase, and experimenting on Kali Linux<br><br>🚀 Currently learning advanced web security & threat analysis<br>
+👋 Hi, I’m Prakhar Gupta<br><br>🎓 B.Tech CSE student<br><br>🔐 Cybersecurity enthusiast exploring ethical hacking, network security & penetration testing<br><br>💻 Passionate about full-stack development with React Native, Supabase, and Python, and love experimenting on Kali Linux<br><br>🚀 Currently learning advanced web security & threat analysis
 
 
 # 💻 Tech Stack:
